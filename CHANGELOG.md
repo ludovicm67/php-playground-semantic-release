@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/ludovicm67/php-playground-semantic-release/compare/v1.0.3...v1.0.4) (2023-02-09)
+
+
+### Bug Fixes
+
+* commit of lock file, again ([55e9528](https://github.com/ludovicm67/php-playground-semantic-release/commit/55e95282ce1b2b00538a93954a96bedb67634b97))
+
 ## [1.0.3](https://github.com/ludovicm67/php-playground-semantic-release/compare/v1.0.2...v1.0.3) (2023-02-09)
 
 

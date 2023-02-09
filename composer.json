@@ -1,7 +1,7 @@
 {
     "name": "ludovicm67/playground-semantic-release",
     "description": "Playground for semantic-release and PHP",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "type": "project",
     "autoload": {
         "psr-4": {
