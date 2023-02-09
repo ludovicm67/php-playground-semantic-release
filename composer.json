@@ -1,0 +1,17 @@
+{
+    "name": "ludovicm67/php-playground-semantic-release",
+    "description": "Playground for semantic-release and PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "ludovicm67\\PlaygroundSemanticRelease\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ludovic Muller",
+            "email": "ludovicmuller1@gmail.com"
+        }
+    ],
+    "require": {}
+}
