@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/ludovicm67/php-playground-semantic-release/compare/v1.1.0...v1.1.1) (2023-02-09)
+
+
+### Bug Fixes
+
+* specify license in composer.json ([37ec356](https://github.com/ludovicm67/php-playground-semantic-release/commit/37ec35695746435b0b9c62c4ca0a0aa1ab0ba5e1))
+
 # [1.1.0](https://github.com/ludovicm67/php-playground-semantic-release/compare/v1.0.4...v1.1.0) (2023-02-09)
 
 
