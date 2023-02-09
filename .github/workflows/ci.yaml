@@ -22,7 +22,7 @@ jobs:
         run: composer validate
 
       - name: Install dependencies
-        run: composer install --prefer-dist
+        run: composer install
 
       - name: Run tests
         run: ./vendor/bin/phpunit tests
@@ -38,7 +38,6 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: "npm"
 
       - name: Install semantic-release
         run: npm install -g semantic-release @iwavesmedia/semantic-release-composer
