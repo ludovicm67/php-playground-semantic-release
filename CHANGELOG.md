@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ludovicm67/php-playground-semantic-release/compare/v1.0.4...v1.1.0) (2023-02-09)
+
+
+### Features
+
+* nice new feature ([e1bc572](https://github.com/ludovicm67/php-playground-semantic-release/commit/e1bc572b2b0951ee5663dcb9538f1bd8cf95dcda))
+
 ## [1.0.4](https://github.com/ludovicm67/php-playground-semantic-release/compare/v1.0.3...v1.0.4) (2023-02-09)
 
 
