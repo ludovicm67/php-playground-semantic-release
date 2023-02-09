@@ -40,7 +40,7 @@ jobs:
           node-version: 18
 
       - name: Install semantic-release
-        run: npm install -g semantic-release @iwavesmedia/semantic-release-composer
+        run: npm install -g semantic-release @semantic-release/changelog @iwavesmedia/semantic-release-composer
 
       - name: Run semantic-release
         run: semantic-release
