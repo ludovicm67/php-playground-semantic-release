@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/ludovicm67/php-playground-semantic-release/compare/v1.0.1...v1.0.2) (2023-02-09)
+
+
+### Bug Fixes
+
+* try another fix release ([116fe2d](https://github.com/ludovicm67/php-playground-semantic-release/commit/116fe2d8247d4e5ae49191cb225470da8e35ec28))
+
 ## [1.0.1](https://github.com/ludovicm67/php-playground-semantic-release/compare/v1.0.0...v1.0.1) (2023-02-09)
 
 
