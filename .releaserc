@@ -29,6 +29,12 @@
     ],
     "@iwavesmedia/semantic-release-composer",
     [
+      "@semantic-release/exec",
+      {
+        "successCmd": "composer update --lock"
+      }
+    ],
+    [
       "@semantic-release/git",
       {
         "assets": [
