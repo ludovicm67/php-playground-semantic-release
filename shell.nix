@@ -9,6 +9,10 @@ let
         mbstring
         tokenizer
         xmlwriter
+        filter
+        openssl
+        ctype
+        curl
       ];
   };
 
