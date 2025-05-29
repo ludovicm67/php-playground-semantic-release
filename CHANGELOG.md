@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/ludovicm67/php-playground-semantic-release/compare/v1.1.2...v1.1.3) (2025-05-29)
+
+
+### Bug Fixes
+
+* add return type ([d42495f](https://github.com/ludovicm67/php-playground-semantic-release/commit/d42495f586dca9422c3848f82c611ef6227bd4fe))
+
 ## [1.1.2](https://github.com/ludovicm67/php-playground-semantic-release/compare/v1.1.1...v1.1.2) (2025-05-29)
 
 
