@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/ludovicm67/php-playground-semantic-release/compare/v1.1.1...v1.1.2) (2025-05-29)
+
+
+### Bug Fixes
+
+* upgrade phpunit to v12 ([cf78ccc](https://github.com/ludovicm67/php-playground-semantic-release/commit/cf78cccc5ade8ae99125d933136e16039afc330d))
+
 ## [1.1.1](https://github.com/ludovicm67/php-playground-semantic-release/compare/v1.1.0...v1.1.1) (2023-02-09)
 
 
