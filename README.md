@@ -8,3 +8,7 @@ This repository is a simple PHP project:
 The CI is configured to install all required tools to run `semantic-release` to release a new version depending of the kind of commit when required.
 
 Changelogs, Git tags and GitHub releases are also updated.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
